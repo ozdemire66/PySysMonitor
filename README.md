@@ -4,7 +4,7 @@ Windows da kullanabileceğiniz bir ôzelik arayüzü geliştiriyorum hata çıka
 
 ## Nasıl Kullanılır
 
-Windows PC nizim özeliklerini kolayca öğrenmeye
+Windows PC nizin özeliklerini kolayca öğrenmeye
 
 ## Yapılanlar Güncel
 versiyon 1.1 Tam sürüm
