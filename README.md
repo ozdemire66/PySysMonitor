@@ -1,10 +1,26 @@
-# Proje Açiklamasi
+# PySysMonitor
 
-Windows da kullanabileceğiniz bir ôzelik arayüzü geliştiriyorum hata çıkabilir kusura bakmayın. Optimize kötü olabilir en kısa sürede bunları düzeltir ve daha fazla özelikler eklerim. Projeye göz atiğin için teşekkürler.
+Windows için geliştirilmiş, bilgisayar donanım ve sistem bilgilerini gösteren terminal tabanlı bir sistem izleme aracıdır.
 
-## Nasıl Kullanılır
+> Proje geliştirme aşamasındadır. Hatalar olabilir veya bazı özellikler tam optimize edilmemiş olabilir. Zamanla performans iyileştirmeleri ve yeni özellikler eklenecektir.
 
-Windows PC nizin özeliklerini kolayca öğrenmeye.
+## Özellikler
 
-## Yapılanlar Güncel
-versiyon 1.1 Tam (Final)
+* CPU bilgisi ve kullanım oranı
+* GPU bilgisi
+* RAM kullanımı
+* Disk bilgileri
+* Anakart ve BIOS bilgileri
+* Sistem bilgileri
+* Ağ bağlantısı, IP ve veri kullanım bilgileri
+
+## Kullanım
+
+1. Projeyi indirin.
+2. Gerekli Python kütüphanelerini yükleyin.
+3. Programı çalıştırın.
+4. Menüden görmek istediğiniz sistem bilgisini seçin.
+
+## Güncel Sürüm
+
+**Versiyon: 1.1** (Beta)
