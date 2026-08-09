@@ -23,4 +23,5 @@ Windows için geliştirilmiş, bilgisayar donanım ve sistem bilgilerini göster
 
 ## Güncel Sürüm
 
-**Versiyon: 1.1** (Beta)
+**Versiyon: 1.1**
+Versiyon: 1.2** (Beta)
