@@ -1,27 +1,44 @@
-# PySysMonitor
+# !_! PySysMonitor !_!
 
-Windows için geliştirilmiş, bilgisayar donanım ve sistem bilgilerini gösteren terminal tabanlı bir sistem izleme aracıdır.
+PySysMonitor, Python ile geliştirilmiş terminal tabanlı bir sistem monitörüdür.
 
-> Proje geliştirme aşamasındadır. Hatalar olabilir veya bazı özellikler tam optimize edilmemiş olabilir. Zamanla performans iyileştirmeleri ve yeni özellikler eklenecektir.
+CPU, RAM, GPU, disk, ağ, pil, anakart/BIOS ve çalışan işlemler gibi sistem bilgilerini terminal üzerinden görüntüler.
+
+---
 
 ## Özellikler
 
-* CPU bilgisi ve kullanım oranı
-* GPU bilgisi
-* RAM kullanımı
-* Disk bilgileri
-* Anakart ve BIOS bilgileri
-* Sistem bilgileri
-* Ağ bağlantısı, IP ve veri kullanım bilgileri
+- CPU kullanımını görüntüleme
+- GPU bilgisi
+- RAM kullanımı ve canlı RAM monitörü
+- Disk kullanımı
+- Ağ / internet bilgileri
+- Pil durumu
+- Anakart ve BIOS bilgileri
+- Sistem bilgileri
+- İşlem yöneticisi
+- Yön tuşlarıyla menü kontrolü
+- Enter ile menülere giriş
+- Logo boyutu ayarı
+- Windows ve Linux desteği
 
-## Kullanım
+---
 
-1. Projeyi indirin.
-2. Gerekli Python kütüphanelerini yükleyin.
-3. Programı çalıştırın.
-4. Menüden görmek istediğiniz sistem bilgisini seçin.
+## Ekran Görünümü
 
-## Güncel Sürüm
+```text
+        !_!
+     PYSMONITOR
 
-**Versiyon: 1.1**
-**Versiyon: 1.2** (Beta)
+===== ANA MENU =====
+
+> RAM
+  CPU / GPU
+  Depolama
+  Anakart / BIOS
+  Sistem
+  Ag Bilgisi
+  Pil Bilgisi
+  Islem Yoneticisi
+  Ayarlar
+  Cikis
